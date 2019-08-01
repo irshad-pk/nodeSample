@@ -6,7 +6,7 @@ var b=moment().add(1, 'y').add(2, 'M').add(3, 'd').format("DD/MM/YYYY");
 console.log(b);
 
 var c=[
-    {"name":"rahul", "dob":"10/05/2000"},
+    {"name":"rahul", "dob":"10/05/2001"},
     {"name":"rajes", "dob":"19/08/2008"},
     {"name":"john", "dob":"01/03/2009"},
     {"name":"jack", "dob":"28/05/2010"}
